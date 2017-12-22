@@ -1,1 +1,1 @@
-# rest-api-news-it-portal
+# news_it_portal
